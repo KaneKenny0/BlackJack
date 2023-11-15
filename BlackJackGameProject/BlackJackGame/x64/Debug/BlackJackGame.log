@@ -1,0 +1,4 @@
+﻿  BlackJackSource.cpp
+D:\Programming\Projects\Uni Stuff\BlackJackGame\BlackJackGame\BlackJackSource.cpp(191,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Programming\Projects\Uni Stuff\BlackJackGame\BlackJackGame\BlackJackSource.cpp(343,13): warning C4101: 'wrongInp': unreferenced local variable
+  BlackJackGame.vcxproj -> D:\Programming\Projects\Uni Stuff\BlackJackGame\x64\Debug\BlackJackGame.exe
